@@ -1,3 +1,5 @@
+[![Academic Year](https://img.shields.io/badge/Epitech-Tek2-green?style=for-the-badge&logo=epitech&logoColor=white)](https://www.epitech.eu/)
+
 # NanoTekSpice
 
 A digital logic and electronics simulator built in **C++20** as part of the Epitech curriculum.  
